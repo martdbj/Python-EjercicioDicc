@@ -1,0 +1,11 @@
+alejandro:SI
+Lucía:NO
+Elena:SI
+sofía:SI
+Valeria:NO
+MATEO:SI
+Paula:SI
+CARMEN:NO
+Hugo:NO
+SARA:SI
+Martín:NO
