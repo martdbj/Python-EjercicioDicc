@@ -12,11 +12,11 @@ python -m venv practica_diccionarios
 #### Activación del entorno
 - Windows CMD
 ```cmd
-(CMD) practica_diccionarios\Scripts\activate.bat
+practica_diccionarios\Scripts\activate.bat
 ```
 - Windows Powershell
 ```powershell
-(Powershell) .\practica_diccionarios\Scripts\Activate.ps1
+.\practica_diccionarios\Scripts\Activate.ps1
 ```
 - macOS y Linux
 ```bash
