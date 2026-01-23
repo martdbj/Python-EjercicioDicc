@@ -5,12 +5,12 @@
 ```bash
 git clone https://github.com/martdbj/Python-EjercicioDicc.git
 ```
-\
+
 #### Creación del entorno virtual de python
 ```bash
 python -m venv practica_diccionarios
 ```
-\
+
 #### Activación del entorno
 - Windows CMD
 ```cmd
@@ -24,7 +24,7 @@ python -m venv practica_diccionarios
 ```bash
 python -m venv practica_diccionarios
 ```
-\
+
 #### Instalación de los paquetes necesarios
 ```bash
 python -m pip install -r requirements.txt
