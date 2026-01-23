@@ -7,6 +7,7 @@ git clone https://github.com/martdbj/Python-EjercicioDicc.git
 ```
 
 
+
 #### Creación del entorno virtual de python
 ```bash
 python -m venv practica_diccionarios
