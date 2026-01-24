@@ -20,7 +20,7 @@ practica_diccionarios\Scripts\activate.bat
 ```
 - macOS y Linux
 ```bash
-python -m venv practica_diccionarios
+source practica_diccionarios/bin/activate
 ```
 #### Instalación de los paquetes necesarios
 ```bash
