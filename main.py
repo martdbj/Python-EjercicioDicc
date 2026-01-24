@@ -68,9 +68,6 @@ def generar_informe(dict_notas, dict_becas):
     plt.savefig("./notes_graph.png")
     plt.show()
 
-
-
-
 try:
     dict_notas = diccionario_notas_desde_CSV("files/ej30notasdaw.csv")
     dict_becas = diccionario_becas_desde_TXT("files/ej30becas.txt")
