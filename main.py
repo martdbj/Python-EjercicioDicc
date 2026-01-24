@@ -69,8 +69,8 @@ def generar_informe(dict_notas, dict_becas):
     plt.show()
 
 try:
-    dict_notas = diccionario_notas_desde_CSV("files/ej30notasdaw.csv")
-    dict_becas = diccionario_becas_desde_TXT("files/ej30becas.txt")
+    dict_notas = diccionario_notas_desde_CSV("./ej30notasdaw.csv")
+    dict_becas = diccionario_becas_desde_TXT("./ej30becas.txt")
 
     generar_informe(dict_notas, dict_becas)
 except FileNotFoundError:
