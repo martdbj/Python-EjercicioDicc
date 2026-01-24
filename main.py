@@ -65,6 +65,7 @@ def generar_informe(dict_notas, dict_becas):
     plt.ylabel('Nota Promedio')
     plt.axhline(y=5, color='blue', linestyle='--')
     plt.title("Calificaciones Finales y Estado de Beca")
+    plt.tight_layout()
     plt.savefig("./notes_graph.png")
     plt.show()
 
