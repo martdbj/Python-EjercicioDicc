@@ -5,4 +5,3 @@ with (
     open("files/ej30becas.txt", "r", encoding="utf-8") as b
 ):
     notas = csv.reader(n)
-    
