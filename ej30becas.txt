@@ -1,6 +1,6 @@
 alejandro:SI
 Lucía:NO
-Elena:SI
+Elena:NO
 sofía:SI
 Valeria:NO
 MATEO:SI
